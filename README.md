@@ -1,7 +1,7 @@
 # Computational Economics
 
 ## About the Project:
-This repository contains copies of the notebooks that my group submitted weekly for the University of Edinburgh's 2022-23 course, "Programming for Economics", designed to teach the essential skills for computational work in economics.
+This repository contains copies of the weekly notebooks that my group submitted for the University of Edinburgh's 2022-23 course, "Programming for Economics", designed to teach the essential skills for computational work in economics.
 
 __The syllabus includes:__
 1. Fundamentals of Programming
